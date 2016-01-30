@@ -1,4 +1,6 @@
 # React-resources
+React is a library used to produce HTML.
+
 Componentize ur front ends
 
 # Beginners
